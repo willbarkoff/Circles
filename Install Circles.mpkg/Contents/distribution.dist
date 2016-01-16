@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<installer-script minSpecVersion="1.000000" authoringTool="com.apple.PackageMaker" authoringToolVersion="3.0.6" authoringToolBuild="201">
+    <title>Circles</title>
+    <options customize="never" allow-external-scripts="no" rootVolumeOnly="true"/>
+    <background file="background" alignment="topleft" scaling="none"/>
+    <welcome language="en" mime-type="text/rtf"><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Thin;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs116 \cf0 Thanks for downloading Circles!
+\fs26 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+\cf0 Circles is an Open Source project that can be found on GitHub:\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+{\field{\*\fldinst{HYPERLINK "https://github.com/nywillb/Circles"}}{\fldrslt \cf0 https://github.com/nywillb/Circles}}}]]></welcome>
+    <readme language="en" mime-type="text/rtf"><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 AppleColorEmoji;\f1\fnil\fcharset0 HelveticaNeue-Thin;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs142 \cf0 \uc0\u9888 \u65039 
+\f1  Warning\
+
+\fs38 You will soon be prompted to choose an install directory. You must install this software on "Macintosh HD" or your main hard drive for the screensaver to work.}]]></readme>
+    <license language="en" mime-type="text/rtf"><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Thin;}
+{\colortbl;\red255\green255\blue255;\red38\green38\blue38;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf0 Circles is under the MIT License.\
+\
+Here is what you need to know:\
+\'95 You can make changes to this project!\
+\'95 You can publish those changes (even commercially), as long as you include the text below (it can also be found at {\field{\*\fldinst{HYPERLINK "https://github.com/nywillb/Circles/blob/master/License.md"}}{\fldrslt https://github.com/nywillb/Circles/blob/master/License.md}})\
+\'95 There is no warranty on this software. Whatever you do with it, it is your fault.\
+\'95 If you mess things up, it's not my fault.\
+\
+(The above instructions are not part of the license. They sum up the license and may be missing important parts. The full license text is below)\
+\
+License Full Text:\
+\
+\pard\pardeftab720\sl512\sa320
+\cf2 \expnd0\expndtw0\kerning0
+The MIT License (MIT)\
+Copyright (c) nywillb 2016\
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\
+\pard\pardeftab720\sl512
+\cf2 \expnd0\expndtw0\kerning0
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\
+}]]></license>
+    <conclusion language="en" mime-type="text/rtf"><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;\f1\fnil\fcharset0 AppleColorEmoji;\f2\fnil\fcharset0 HelveticaNeue-Thin;
+\f3\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs150 \cf0 Yay!
+\f1\fs76 \
+\uc0\u9989    
+\f2  Installation Successful!
+\fs44 \
+\
+\
+\
+More Instructions\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f3 \cf0 \uc0\u9662 
+\f2 \
+\
+To enable the screensaver, open the screensaver panel of System Preferences. To change the colors and text, click the "Screensaver Options" button\
+\
+If you like Circles, check out some of my other projects:\
+\
+{\field{\*\fldinst{HYPERLINK "https://github.com/nywillb"}}{\fldrslt https://github.com/nywillb}}\
+\
+Have fun!\
+}]]></conclusion>
+    <choices-outline>
+        <line choice="choice4"/>
+    </choices-outline>
+    <choice id="choice4" title="Circles">
+        <pkg-ref id="com.WatermellonTechnologies.circles.Circles.pkg"/>
+    </choice>
+    <pkg-ref id="com.WatermellonTechnologies.circles.Circles.pkg" installKBytes="304" version="1.0">file:./Contents/Packages/circles.pkg</pkg-ref>
+</installer-script>
