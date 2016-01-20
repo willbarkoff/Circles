@@ -13,4 +13,4 @@ Quartz Composer was used for this project. If you want to suggest changes, fork 
 2. Go to [Apple Developer Downloads](http://developer.apple.com/downloads).
 3. Search for "Graphic Tools for Xcode," and download the one that matches your Xcode version. (Download Xcode [here](https://itunes.apple.com/us/app/xcode/id497799835?ls=1&mt=12).)
 4. Open the DMG
-5. Drag "Quartz Composer" and "Quartz Composer Visulizer" to your "Applications" folder (found by clicking "Go">"Applications" when Finder is in focus.
+5. Drag "Quartz Composer" and "Quartz Composer Visulizer" to your "Applications" folder (found by clicking "Go">"Applications" when Finder is in focus. Enter an Administrator password if required.
